@@ -49,10 +49,10 @@ Por motivos de segurança, as credenciais do banco de dados não são enviadas p
   1. Na raiz do projeto, crie um arquivo chamado exatamente .env
   2. Adicione as seguintes variáveis e substitua pelos dados do seu MySQL local:
     ```env
-    DB_HOST=localhost
-    DB_USER=seu_usuario_do_mysql
-    DB_PASSWORD=sua_senha_do_mysql
-    DB_NAME=nome_do_seu_banco_de_dados
+DB_HOST=localhost
+DB_USER=seu_usuario_do_mysql
+DB_PASSWORD=sua_senha_do_mysql
+DB_NAME=nome_do_seu_banco_de_dados
     ```
 
 ### 5. Executar o Programa
